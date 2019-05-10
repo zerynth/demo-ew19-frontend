@@ -1,0 +1,5 @@
+node_modules
+.next
+*.tar.gz
+backend/certs/private.pem.key
+backend/certs/certificate.pem.crt
